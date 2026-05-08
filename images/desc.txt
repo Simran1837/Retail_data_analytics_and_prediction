@@ -1,6 +1,0 @@
- images/
-  ├── top_products.png
-  ├── city_share.png
-  ├── monthly_trend.png
-  ├── category_share.png
-  └── actual_vs_predicted.png
